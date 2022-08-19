@@ -1,0 +1,16 @@
+1. Semicolons are a big deal in CSS.
+You need Semicolons at the end of every property declaration in css. 
+
+
+button {
+    color: magenta;
+    background-color: cyan; 
+}
+
+
+CSS TEXT PROPERTIES
+- Text Align
+- Font-weight
+- Text decoration
+- Line-height
+- Letter spacing.
